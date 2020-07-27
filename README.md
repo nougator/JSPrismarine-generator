@@ -1,2 +1,2 @@
 # JSPrismarine-generator
-The world generator of JSPrismarine
+The world generator of [JSPrismarine](https://github.com/HerryYT/JSPrismarine)
